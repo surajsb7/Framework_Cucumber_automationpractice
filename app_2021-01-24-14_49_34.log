@@ -1,0 +1,8 @@
+2021-Jan-24 14:49:39 PM [main] INFO  Base.WebDriverFactory - Chrome Browser invoked
+2021-Jan-24 14:49:42 PM [main] INFO  Base.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2021-Jan-24 14:49:42 PM [main] INFO  StepDef.End_To_End_Journey_Pom - Browser invoked.
+2021-Jan-24 14:49:51 PM [main] INFO  StepDef.End_To_End_Journey_Pom - Page Url validation successfull. Expected and actual text matched. Text: http://automationpractice.com/index.php
+2021-Jan-24 14:49:51 PM [main] INFO  StepDef.End_To_End_Journey_Pom - <User is navigates to the application url>
+2021-Jan-24 14:49:54 PM [main] INFO  pages.End_To_End_Journey - User clik on sign-in link
+2021-Jan-24 14:49:57 PM [main] INFO  pages.End_To_End_Journey - User entered valid login details
+2021-Jan-24 14:50:03 PM [main] INFO  Base.WebDriverFactory - Driver closed
